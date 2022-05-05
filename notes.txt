@@ -1,4 +1,0 @@
-main_3
-------
-MCFS used
-PCA gives good results
